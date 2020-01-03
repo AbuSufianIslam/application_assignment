@@ -22,6 +22,10 @@ The finished project:
 
 ![working app](app.gif)
 
+## Server 
+- As for 3000 port my server was not running, so I changed port address to 3001.
+- I installed nodemon to run my express server. Just type on the command promt as 'npm start' then it will run the server.
+
 ## Submission Requirements
 
 Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
